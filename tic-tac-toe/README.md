@@ -5,7 +5,7 @@ in the terminal.
 
 ## Usage
 
-Usage is currently through the (Leiningen)[https://leiningen.org] build system
+Usage is currently through the [Leiningen](https://leiningen.org) build system
 and running can be accomplished via the following command within a source
 checkout:
 
